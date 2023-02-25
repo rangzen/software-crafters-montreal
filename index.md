@@ -8,23 +8,23 @@ See the [global site](https://softwarecrafters.org/) for more information about 
 Please feel free to come and discuss with any other developers and techies,
 whoever you are, and whatever language or technology you're familiar with.
 
-Join us if you are interested in:
-  * Test-Driven Development (TDD)
-  * BDD
-  * DDD
-  * The challenges of working with legacy code
-  * Clean Code
-  * Clean Architecture, Hexagonal Architecture, and design issues in general
+Join us if you are interested in
+Test-Driven Development (TDD),
+BDD,
+DDD,
+The challenges of working with legacy code,
+Clean Code,
+Clean Architecture, Hexagonal Architecture, and design issues in general.
 
 As Software Crafters, we improve professional software development skills through
 practice and by helping others learn the know-how.
 
 We value the following:
 
-> Not only working software, but also well-crafted software.  
-> Not only responding to change, but also steadily adding value.  
-> Not only individuals and interactions, but also a community of professionals.  
-> Not only customer collaboration, but also productive partnerships.  
+    Not only working software, but also well-crafted software.  
+    Not only responding to change, but also steadily adding value.  
+    Not only individuals and interactions, but also a community of professionals.  
+    Not only customer collaboration, but also productive partnerships.  
 
 Looking for the left parts, we found that we needed the right parts.
 
