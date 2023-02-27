@@ -20,6 +20,10 @@
 
 ![street](./street.jpg)
 
+Montez au 11e étage.
+
+![elevators](./elevators.jpg)
+
 ### Depuis le boulevard Sainte-Catherine Ouest
 
 Par l’entrée la plus à gauche quand vous êtes face au centre Eaton.
@@ -38,6 +42,10 @@ Tourner à gauche avant le magasin de lunettes.
 
 ![ext_4](./ext_4.jpg)
 
+Monter au 11e étage.
+
+![elevators](./elevators.jpg)
+
 ### Depuis le métro
 
 Suivre la sortie "Centre Eaton".
@@ -54,5 +62,9 @@ mais il faut faire le tour comme sur le plan ci-dessous.
 
 ![subway_4](./subway_4.jpg)
 ![subway_5](./subway_5.jpg)
+
+Monter au 11e étage.
+
+![elevators](./elevators.jpg)
 
 [back](./index.html)
