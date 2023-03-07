@@ -3,6 +3,6 @@
 Places where the Software Crafters - Montreal meet:
 
 * [Coveo](./coveo.html)
-* [Tek Systems](./tek_systems.html)
+* [TEKSystems](./teksystems.html)
 
 [back](../index.html)
