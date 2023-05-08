@@ -4,7 +4,7 @@
 
 1801 Av. McGill College #1100, Montréal, QC H3A 3T2
 
-[Google Maps](https://goo.gl/maps/4gE8E9XnAg9HFN2o9)
+[OpenStreetMap](https://osm.org/go/cIrNvYEnN?node=2428616368) - [Google Maps](https://goo.gl/maps/4gE8E9XnAg9HFN2o9)
 
 [back](./index.html)
 
